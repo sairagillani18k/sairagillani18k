@@ -32,7 +32,9 @@
         <td align="center" width="150">
             <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width=80 style="max-width: 80%;">
         </td>
-        
+        <td align="center" width="150">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" style="max-width: 80%;">
+        </td>
         <td align="center" width="150">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" style="max-width: 100%;">
         </td>
@@ -43,22 +45,28 @@
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=80 style="max-width: 80%;">
         </td>
         <td align="center" width="150">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/PowerBI/powerbi.png" style="max-width: 80%;">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 80%;">
         </td>
     </tr>
     <tr>
-        
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="max-width: 80%;">
+        </td>
         <td align="center">
             <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="max-width: 100%;">
         </td>
         <td align="center">
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;">
         </td>
-       
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width=80 style="max-width: 100%;">
+        </td>
         <td align="center">
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" style="max-width: 100%;">
         </td>
-        
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width=80 style="max-width: 100%;">
+        </td>
     </tr>
     <tr>
         <td align="center">
