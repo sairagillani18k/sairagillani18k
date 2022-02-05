@@ -41,9 +41,14 @@
         <td align="center" width="150">
           <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d382c4826ad8a3805f72b9df3ab5b56e/keras.png" style="max-width: 100%;">
         </td>
-        
-        </tr>
-        <tr>
+        <td align="center" width="150">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=80 style="max-width: 80%;">
+        </td>
+        <td align="center" width="150">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 80%;">
+        </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="max-width: 80%;">
         </td>
