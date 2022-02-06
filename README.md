@@ -18,8 +18,7 @@
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/saira-gillani-749a727/" rel="nofollow"><img src="https://img.shields.io/badge/-Saira%20Gillani-0077B5?style=flat&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
     <a href="mailto:gillani_ismat@columbusstate.edu"><img src="https://img.shields.io/badge/-gillani_ismat@columbusstate.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://leetcode.com/user3629v/" rel="nofollow"><img src="https://leetcode.com/user3629v/?style=flat&amp;logo=Leetcode-&amp;logoColor=red" style="max-width: 100%;"></a>
-    
+<a href="https://leetcode.com/user3629v/" rel="nofollow"><img src="https://img.shields.io/badge/-@sairagillani-f9a825?style=flat&amp;logo=Leetcode&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.facebook.com/saira.gillani.50" rel="nofollow"><img src="https://img.shields.io/badge/-@sairagillani-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 <br>
