@@ -33,9 +33,6 @@
             <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width=80 style="max-width: 80%;">
         </td>
         <td align="center" width="150">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" style="max-width: 80%;">
-        </td>
-        <td align="center" width="150">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" style="max-width: 100%;">
         </td>
         <td align="center" width="150">
@@ -50,7 +47,7 @@
     </tr>
     <tr>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="max-width: 80%;">
+            <img src="https://camo.githubusercontent.com/51f3745d9afdae550ab11a623452def18da7487a6998837b56845783a24d2012/68747470733a2f2f7777772e706e676974656d2e636f6d2f70696d67732f6d2f3334362d333436303434335f6d616368696e652d6c6561726e696e672d636f757273652d6e6561722d6d652d6d616368696e652d6c6561726e696e672d6c6f676f2e706e67" style="max-width: 80%;">
         </td>
         <td align="center">
             <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="max-width: 100%;">
@@ -60,9 +57,6 @@
         </td>
         <td align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width=80 style="max-width: 100%;">
-        </td>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" style="max-width: 100%;">
         </td>
         <td align="center">
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width=80 style="max-width: 100%;">
@@ -77,9 +71,6 @@
         </td>
         <td align="center">
             <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width=80 style="max-width: 100%;">
-        </td>
-        <td align="center">
-            <img src="https://miro.medium.com/max/875/0*0YPYkvv4hg79R4FE.png" style="max-width: 100%;">
         </td>
         <td align="center">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/180px-Jupyter_logo.svg.png" width=80 style="max-width: 100%;">
