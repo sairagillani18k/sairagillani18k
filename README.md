@@ -38,10 +38,10 @@
           <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d382c4826ad8a3805f72b9df3ab5b56e/keras.png" style="max-width: 100%;">
         </td>
         <td align="center" width="150">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width=80 style="max-width: 80%;">
+            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width=80 style="max-width: 80%;">
         </td>
         <td align="center" width="150">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 80%;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZe1mkg1jqYqyT0yjn7H0xV1ZFtJxAhtA24Q&usqp=CAU" style="max-width: 80%;">
         </td>
     </tr>
     <tr>
@@ -52,19 +52,16 @@
             <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" style="max-width: 100%;">
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="max-width: 100%;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT78HfUCz_DDjpfiOU5Xs1Y4uEaSCOCgUo8UA&usqp=CAU" style="max-width: 100%;">
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width=80 style="max-width: 100%;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThlvTrosirogbBvH_DyPS01nL_yuW6HZu7VA&usqp=CAU" width=80 style="max-width: 100%;">
         </td>
         <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width=80 style="max-width: 100%;">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRTcyb3SIjUMoIx5B5m3Xcsnln_Wc3F1tsA&usqp=CAU" style="max-width: 100%;">
         </td>
-    </tr>
+        </tr>
     <tr>
-        <td align="center">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width=80 style="max-width: 80%;">
-        </td>
         <td align="center">
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;">
         </td>
@@ -76,6 +73,9 @@
         </td>
         <td align="center">
             <img src="https://github.com/bestofjs/bestofjs-webui/raw/master/public/logos/vscode.svg" width="60" style="max-width: 100%;"></a>
+        </td>
+        <td align="center">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzHSELj08q3e2BBpFm1z1ArQDAvGtebI2AA&usqp=CAU" width="60" style="max-width: 100%;"></a>
         </td>
 </tr>
 </tbody></table>
