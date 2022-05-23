@@ -1,7 +1,7 @@
 ### Hi, I am Saira Gillani  👋
 
 
-### A Masters Student, Analyst , Teacher
+### Data Scientist
 
 - 🥅 I am currently pursuing my Masters in Artificial Intelligence from CSU , United Satates.
 - 🌱 I’m currently learning new things and expanding my knowledge in Data Engineering.
