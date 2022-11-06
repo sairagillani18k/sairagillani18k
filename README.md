@@ -4,10 +4,10 @@
 ### Data Scientist
 
 - 🥅 I am currently pursuing my Masters in Artificial Intelligence from CSU , United Satates.
-- 🌱 I’m currently learning new things and expanding my knowledge in Data Engineering.
+- 🌱 Learning new things and expanding my knowledge in Data Science , Data Governance , Machine learning , Computer Vision , Robotics , Point Cloud.
 - 📢 I’m currently learning how to extract impactful insights from raw data using python and google-sheets
 - 🔭 Love to teach and inspire students.
-- 👯 I’m looking to collaborate with other content creators.
+- 👯 I’m looking forward to collaborate with other content creators.
 - 😄 Goals 2022: Participate in international hackathons and coding comepetitions.
 - ⚡ Fun fact: I love to draw and cook.
 
