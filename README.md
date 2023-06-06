@@ -1,7 +1,7 @@
 ### Hi, I am Saira Gillani  👋
 
 
-### Data Scientist
+### Computer Vision Engineer
 
 - 🥅 I am currently pursuing my Masters in Artificial Intelligence from CSU , United Satates.
 - 🌱 Learning new things and expanding my knowledge in Data Science , Data Governance , Machine learning , Computer Vision , Robotics , Point Cloud.
