@@ -3,8 +3,8 @@
 
 ### Computer Vision Engineer
 
-- 🥅 I am currently pursuing my Masters in Artificial Intelligence from CSU , United Satates.
-- 🌱 Learning new things and expanding my knowledge in Data Science , Data Governance , Machine learning , Computer Vision , Robotics , Point Cloud.
+- 🥅 I am currently working as a developer with Cobra Vision , United Satates.
+- 🌱 Learning new things and expanding my knowledge in Computer Vision , Robotics , Point Cloud , Machine learning.
 - 📢 Know how to extract impactful insights from raw data using python and google-sheets
 - 🔭 Love to reserach, present , and inspire others.
 - 👯 I’m looking forward to collaborate with other content creators.
