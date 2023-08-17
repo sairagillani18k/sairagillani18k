@@ -3,13 +3,13 @@
 
 ### Computer Vision Engineer
 
-- 🥅 I am currently working as a developer with Cobra Vision , United Satates.
-- 🌱 Learning new things and expanding my knowledge in Computer Vision , Robotics , Point Cloud , Machine learning.
-- 📢 Know how to extract impactful insights from raw data using python and google-sheets
-- 🔭 Love to reserach, present , and inspire others.
-- 👯 I’m looking forward to collaborate with other content creators.
-- 😄 Goals 2022: Participate in international hackathons and coding comepetitions.
-- ⚡ Fun fact: Spend my time with depth cameras - ZED , OAK-D.
+- 🥅 I am currently working as a developer with Cobra Vision, United States.
+- 🌱 Learning new things and expanding my knowledge in Computer Vision, Robotics, Point Cloud, and Machine learning.
+- 📢 Know how to extract impactful insights from raw data using Python and google-sheets
+- 🔭 Love to research, present, and inspire others.
+- 👯 I’m looking forward to collaborating with other content creators.
+- 😄 Goals 2022: Participate in international hackathons and coding competitions.
+- ⚡ Fun fact: Spend my time with depth cameras - ZED, OAK-D.
 
 
 
