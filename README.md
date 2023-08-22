@@ -8,7 +8,7 @@
 - 📢 Know how to extract impactful insights from raw data using Python and google-sheets
 - 🔭 Love to research, present, and inspire others.
 - 👯 I’m looking forward to collaborating with other content creators.
-- 😄 Goals 2022: Participate in international hackathons and coding competitions.
+- 😄 Goals 2023: Participate in international hackathons and coding competitions.
 - ⚡ Fun fact: Spend my time with depth cameras - ZED, OAK-D.
 
 
